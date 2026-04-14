@@ -1,0 +1,2 @@
+Private access provides better encapsulation and security because variables cannot be accessed outside the class. 
+Protected allows subclasses to access variables, making it more flexible but less secure.
